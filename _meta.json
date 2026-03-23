@@ -1,0 +1,33 @@
+{
+  "name": "slowmist-agent-security",
+  "version": "1.0.0",
+  "description": "Comprehensive security review framework for AI agents. Covers skill/MCP installation, GitHub repos, URLs/documents, on-chain addresses, products/services, and social shares. Built from real-world attack patterns.",
+  "author": "SlowMist",
+  "license": "MIT",
+  "homepage": "https://github.com/slowmist/slowmist-agent-security",
+  "repository": "https://github.com/slowmist/slowmist-agent-security",
+  "keywords": [
+    "security",
+    "audit",
+    "review",
+    "aml",
+    "blockchain",
+    "skill-security",
+    "prompt-injection",
+    "social-engineering"
+  ],
+  "categories": ["security", "blockchain", "audit"],
+  "requires": {
+    "bins": []
+  },
+  "optional": {
+    "integrations": [
+      {
+        "name": "misttrack-skills",
+        "description": "For on-chain AML risk assessment",
+        "url": "https://github.com/slowmist/misttrack-skills"
+      }
+    ]
+  },
+  "minClawVersion": "0.1.0"
+}

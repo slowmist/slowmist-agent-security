@@ -21,7 +21,7 @@ This skill provides a structured security review framework for OpenClaw agents, 
 Download the latest release and extract to your OpenClaw workspace:
 ```bash
 cd ~/.openclaw/workspace/skills
-git clone https://github.com/slowmist/slowmist-agent-security.git
+git clone https://github.com/evilcos/slowmist-agent-security.git
 ```
 
 ### Option 2: ClawHub (when available)

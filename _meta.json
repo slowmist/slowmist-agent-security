@@ -4,8 +4,8 @@
   "description": "Comprehensive security review framework for AI agents. Covers skill/MCP installation, GitHub repos, URLs/documents, on-chain addresses, products/services, and social shares. Built from real-world attack patterns.",
   "author": "evilcos",
   "license": "MIT",
-  "homepage": "https://github.com/evilcos/slowmist-agent-security",
-  "repository": "https://github.com/evilcos/slowmist-agent-security",
+  "homepage": "https://github.com/slowmist/slowmist-agent-security",
+  "repository": "https://github.com/slowmist/slowmist-agent-security",
   "keywords": [
     "security",
     "audit",

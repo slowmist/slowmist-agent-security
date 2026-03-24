@@ -1,6 +1,6 @@
 ---
 name: slowmist-agent-security
-version: 1.1.0
+version: 0.1.1
 description: Comprehensive security review framework for AI agents. Covers skill/MCP installation, GitHub repos, URLs/documents, on-chain addresses, products/services, and social shares. Built from real-world attack patterns and incident response experience.
 author: SlowMist
 license: MIT

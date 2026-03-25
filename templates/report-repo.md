@@ -5,9 +5,9 @@ Use this template when reporting the results of a repository.md review.
 ---
 
 ```
-╔══════════════════════════════════════════════════╗
+════════════════════════════════════
   REPOSITORY SECURITY ASSESSMENT
-╠══════════════════════════════════════════════════╣
+────────────────────────────────────
   Repository:    [owner/repo]
   URL:           [https://github.com/...]
   Stars / Forks: [n] / [n]
@@ -16,12 +16,12 @@ Use this template when reporting the results of a repository.md review.
   Contributors:  [n]
   License:       [license]
   Trust Tier:    [1-5] — [description]
-╠══════════════════════════════════════════════════╣
+────────────────────────────────────
   SCOPE
   Language:      [primary language(s)]
   Purpose:       [what the project does]
   Files Audited: [n] / [total n]
-╠══════════════════════════════════════════════════╣
+────────────────────────────────────
   SECURITY FINDINGS
   [None]
   — or —
@@ -29,7 +29,7 @@ Use this template when reporting the results of a repository.md review.
     [description]
     [affected file:line]
     [impact]
-╠══════════════════════════════════════════════════╣
+────────────────────────────────────
   ARCHITECTURE ASSESSMENT
   Authentication:  [description]
   Authorization:   [description]
@@ -37,13 +37,13 @@ Use this template when reporting the results of a repository.md review.
   Secret mgmt:     [description]
   Dependencies:    [n total, n with known CVEs]
   Update mechanism: [description]
-╠══════════════════════════════════════════════════╣
+────────────────────────────────────
   RISK:     [🟢 LOW / 🟡 MEDIUM / 🔴 HIGH / ⛔ REJECT]
   VERDICT:  [summary recommendation]
-╠══════════════════════════════════════════════════╣
+────────────────────────────────────
   NOTES
   [Key observations, context, comparison with alternatives]
-╚══════════════════════════════════════════════════╝
+════════════════════════════════════
 ```
 
 ## Field Guidelines

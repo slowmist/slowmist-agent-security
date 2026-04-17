@@ -6,7 +6,7 @@ A comprehensive security review framework for AI agents operating in adversarial
 
 ## Overview
 
-This skill provides a structured security review framework for OpenClaw agents, covering:
+This skill provides a structured security review framework applicable to OpenClaw, Hermes Agent, and other LLM-based agent systems, covering:
 
 - **Skill/MCP Installation** — Detect malicious patterns before installation
 - **GitHub Repository Review** — Audit codebases for security issues
@@ -16,6 +16,8 @@ This skill provides a structured security review framework for OpenClaw agents, 
 - **Social Share Review** — Validate tools recommended in chats
 
 ## Installation
+
+**The installation example below uses OpenClaw for demonstration. In practice, you can simply hand the repository URL to your agent and let it handle the installation — it's that easy.**
 
 ### Option 1: Direct Download
 Download the latest release and extract to your OpenClaw workspace:
@@ -85,7 +87,7 @@ slowmist-agent-security/
 
 ## Optional Integration
 
-- **MistTrack Skills** — For on-chain AML risk assessment (external tool)
+- **[MistTrack Skills](https://github.com/slowmist/misttrack-skills)** — For on-chain AML risk assessment (external tool)
 
 ## Usage Examples
 

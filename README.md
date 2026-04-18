@@ -125,3 +125,7 @@ MIT License — Free to use, modify, and distribute.
 *Security is not a feature — it's a prerequisite.* 🛡️
 
 **SlowMist** · https://slowmist.com
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/slowmist/slowmist-agent-security.svg)](https://skill-history.com/slowmist/slowmist-agent-security)
